@@ -12,5 +12,4 @@ repo_names:
 11-models-from-data:
   - https://github.com/felipeflima/ATLAS-iOS-Fall-22/tree/main/Assignments/ModelFromData
   
-project-check-in-1:
-  - https://github.com/felipeflima/ATLAS-iOS-Fall-22/issues/2
+project-check-in-1: https://github.com/felipeflima/ATLAS-iOS-Fall-22/issues/2
